@@ -1,0 +1,17 @@
+************************************************************                     
+! !      Leer antes de Ejecutar    IMPORTANTE !!
+
+Actividad realizada por :Andres Neira , Cristian Villa  y  Daniel Aranda.
+
+1. La carpeta debe estar en htdocs
+
+2.  Abrir Xampp y ejecutar Apache y MySql
+
+3. Entrar en  PHPMYADMIN y crear la BD llamada        carrocompras
+
+4. En la carpeta BD importa el archivo  en   PHPMYADMIN  
+
+5. ejecutar 
+
+*****************************************************************
+
